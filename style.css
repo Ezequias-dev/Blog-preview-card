@@ -56,6 +56,7 @@
   box-sizing: border-box;
   line-height: var(--figtree-line-height);
   letter-spacing: var(--figtree-letter-spacing);
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
